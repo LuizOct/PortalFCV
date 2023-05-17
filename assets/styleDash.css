@@ -1,0 +1,85 @@
+
+
+body {
+   font-family: "Montserrat",sans-serif;
+    
+}
+
+.corpo-site{
+    background-color: #fff;
+    
+}
+
+.header-title{
+    background-color: #0f3376;
+    padding: 7%;
+}
+
+.logo{
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+    color: #fff;
+    font-size: 44px; 
+    font-weight: bolder;   
+}
+
+.sub-title{
+    text-align: center;
+    color:#fff;
+    font-size: 15px;
+    font-weight: bold;
+}
+.menu-title{
+    font-weight: bold;
+    color:#0f3376;
+}
+
+.filtro{
+    margin:2%;
+    background-color: #fbfcfd;
+    
+    padding: 2%;
+}
+
+
+.cardTotalPessoas{
+    background-color: #ebe6e6;
+    text-align: center;
+    margin: 2%;
+    padding: 3%;
+}
+.cardTotalMasculino{
+    background-color: #0095da;
+    color:#fff;
+    text-align: center;
+    margin: 2%;
+    padding: 3%;
+}
+.cardTotalFeminino{
+    background-color: #e6195c;
+    text-align: center;
+    color:#fff;
+    margin: 2%;
+    padding: 3%;
+}
+.cardTotalMenor{
+    background-color: #2d8a87;
+    text-align: center;
+    color:#fff;
+    margin: 2%;
+    padding: 3%;
+}
+.iconTotalPessoas{
+    background-color: #233c81;
+}
+.card {
+   
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10%;
+    background-color: rgb(208, 245, 239);
+
+}
